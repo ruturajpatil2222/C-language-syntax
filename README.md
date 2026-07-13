@@ -1,2 +1,5 @@
-# C-language-syntax
-its my first code
+#include<stdio.h>
+int main(){
+printf("hello Ruturaj");
+return 0;
+}
